@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![cover](https://github.com/roselisanchez/roselisanchez/blob/main/img/coverRoseli.png)  
+![cover](https://github.com/roselisanchez/roselisanchez/blob/main/img/coverRoseliSan.png)  
 
 
 
@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ---
 Designer, UX lover | Front-end newbie :3
  
- :woman_technologist: : Javascript, React
+I'm studying :woman_technologist: : Javascript, React
  
  
- :sparkling_heart: : :ballet_shoes: :art: :closed_book: :fox_face: :pizza: :icecream:
+I :sparkling_heart: : :ballet_shoes: :art: :closed_book: :fox_face: :pizza: :icecream:
  
 
 ---
