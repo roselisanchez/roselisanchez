@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 
 
 
-### Hello! I'm Roseli | Oiê! Eu sou a Roseli :)
+### Oiê! Eu sou a Roseli
 
 ---
- Designer, in love for UX and studying Front-end | Designer, apaixonada por UX e estudando programação Front-end
+Designer, UX lover | Front-end newbie :3
  
- :woman_technologist: Javascript, React
- :sparkling_heart: :ballet_shoes:, :art:, :closed_book:, :fox_face:, :pizza:, :icecream:
+ :woman_technologist: : Javascript, React
+ 
+ 
+ :sparkling_heart: : :ballet_shoes: :art: :closed_book: :fox_face: :pizza: :icecream:
  
 
 ---
